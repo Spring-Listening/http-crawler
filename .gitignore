@@ -1,3 +1,9 @@
+screenshot/*.png
+saveImage/*.png
+saveImage/*.jpg
+saveImage/*.git
+saveImage/*.jpeg
+word/*.txt
 # Logs
 logs
 *.log
